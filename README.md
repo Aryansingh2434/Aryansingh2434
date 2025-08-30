@@ -1,4 +1,9 @@
 
+👋 Hi, I’m Aryan Singh, a passionate developer exploring full-stack development and competitive programming.
+🚀 Participated in ISRO Hackathon, building scalable and innovative solutions.
+💻 Strong in Data Structures & Algorithms, with a focus on problem solving (CP).
+⚡ Skilled in MERN Stack, Java, C++, and exploring cloud & system design.
+🌱 Always learning, building, and contributing to open-source projects.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaryanchauhan.26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-singh-a87966298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhanaryan011@gmail.com) 
 
